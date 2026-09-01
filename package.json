@@ -1,0 +1,16 @@
+{
+  "name": "loja-solo-leveling",
+  "version": "1.0.0",
+  "description": "Loja Solo Leveling - Sistema Steam Nativo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
